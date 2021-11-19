@@ -3,3 +3,11 @@
 ```
 { "Fn::FindInMap" : [ "MapName", "TopLevelKey", "SecondLevelKey"] }
 ```
+
+
+Terraform 작업 서버에 접속 후 Azure CLI 설치
+```
+sudo su -
+sudo apt-get update -y
+sudo apt
+```
