@@ -1,0 +1,5 @@
+
+
+'''
+{ "Fn::FindInMap" : [ "MapName", "TopLevelKey", "SecondLevelKey"] }
+'''
